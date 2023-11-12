@@ -1,0 +1,22 @@
+body{
+    display: flex;
+}
+#search{
+    display: flex;
+    flex-direction: row;
+    -ms-flex-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    height: 40px;
+}
+#search1 input{
+    border: none;
+    height: 20px;
+}
+#icon{
+    color: white;
+}
+header{
+    width: 100%;
+}
